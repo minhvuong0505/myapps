@@ -1,0 +1,17 @@
+D:\App\PointofSales\PointofSales\bin\Debug\PointofSales.exe.config
+D:\App\PointofSales\PointofSales\bin\Debug\PointofSales.exe.manifest
+D:\App\PointofSales\PointofSales\bin\Debug\PointofSales.application
+D:\App\PointofSales\PointofSales\bin\Debug\PointofSales.exe
+D:\App\PointofSales\PointofSales\bin\Debug\PointofSales.pdb
+D:\App\PointofSales\PointofSales\bin\Debug\Geckofx-Core.dll
+D:\App\PointofSales\PointofSales\bin\Debug\Geckofx-Winforms.dll
+D:\App\PointofSales\PointofSales\bin\Debug\Geckofx-Core.pdb
+D:\App\PointofSales\PointofSales\bin\Debug\Geckofx-Winforms.pdb
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.Form1.resources
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.Properties.Resources.resources
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.csproj.GenerateResource.Cache
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.TrustInfo.xml
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.exe.manifest
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.application
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.exe
+D:\App\PointofSales\PointofSales\obj\Debug\PointofSales.pdb
